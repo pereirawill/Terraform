@@ -6,5 +6,5 @@ location        = "eastus2"
 # Resource Group Name
 resource_group  = "yourwebsite-rg"
 
-# Web site name
+# Storage Account Name
 storage_account = "yourwebsite"
